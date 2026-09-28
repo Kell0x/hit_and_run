@@ -1,0 +1,57 @@
+
+[raid]
+	#Range: 3 ~ 8
+	extractionPointCount = 3
+	#Range: 1 ~ 180
+	durationMinutes = 30
+	#Range: 1 ~ 60
+	extractionRequiredSeconds = 20
+	dropAllItemsOnRaidDeath = true
+	#Range: 0 ~ 36
+	maxInsuredItems = 4
+	#Range: 1.0 ~ 16.0
+	extractionRadius = 4.0
+	allowCrossDimensionTravelDuringRaid = false
+	#When true, custom map raids do not roll a main task. Hot-reloadable for newly-created raids.
+	disableMainTasksInCustomMaps = false
+
+[guards]
+	enabled = true
+	#Range: 0.0 ~ 1.0
+	spawnChance = 0.3
+	#Range: 0 ~ 32
+	minCount = 1
+	#Range: 0 ~ 64
+	maxCount = 2
+	simpleEnemyEnabled = true
+
+[trade]
+	#Range: 0.1 ~ 100.0
+	defaultBuyMultiplier = 1.5
+	allowContainerSell = false
+	#Range: 1 ~ 1000000
+	dimensionUnlockShopPrice = 200
+
+[compatibility]
+	#Allows creative operators and singleplayer owners to scan JEI recipe layouts for extra price seeds. Hot-reloadable.
+	jeiPriceScanner = true
+	rarityCorePriceIntegration = true
+	#Range: > 1
+	rarityCoreTier1SellValue = 1
+	#Range: > 1
+	rarityCoreTier2SellValue = 90
+	#Range: > 1
+	rarityCoreTier3SellValue = 220
+	#Range: > 1
+	rarityCoreTier4SellValue = 900
+	#Range: > 1
+	rarityCoreTier5SellValue = 2800
+	#Range: > 1
+	rarityCoreTier6SellValue = 6200
+	#Range: > 1
+	rarityCoreTier7SellValue = 12000
+
+[debug]
+	#Writes a periodic LootRun server workload summary to the log. Hot-reloadable.
+	performanceLog = false
+

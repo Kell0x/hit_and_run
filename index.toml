@@ -1,0 +1,653 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/alltheleaks.json"
+hash = "ed68f0c0b35f9ebbb3d3f93a4913e314b04bfdeab480fc7683bd6ae392cd2e0e"
+
+[[files]]
+file = "config/bleedout-client.toml"
+hash = "53b6f3b4e744a8a72b8abc3c27eefe3a826092a33cb7b3dfa12de074876146c7"
+
+[[files]]
+file = "config/bleedout-common.toml"
+hash = "d5e89de48b4ef4f0f6eb9aa6cbac7b7db9d9a36b9f58864923668291828ee589"
+
+[[files]]
+file = "config/citadel-common.toml"
+hash = "0a41518641bbb4133fc61b934e8663ae5271ffd8190a281e5b35d1efd97fb3e3"
+
+[[files]]
+file = "config/collective.json5"
+hash = "92809d098b5efeca95c37ec4fef9184bd169160d18efecf81f395c4030c0f83f"
+
+[[files]]
+file = "config/cull-less-leaves.json"
+hash = "6bc92f3695f35c601c2adfa1f51e9f616df379288f2a260fd1f4011c5bad50ee"
+
+[[files]]
+file = "config/dimthread-common.toml"
+hash = "58e61276e8816b6968e3abef63781b8f9fd140beb0fb1293cbb21389970fd5cf"
+
+[[files]]
+file = "config/embeddium-fingerprint.json"
+hash = "b2b066097667ffacd20cbac9e97d20aa20e732e18a667c40880e23c4334dff51"
+
+[[files]]
+file = "config/embeddium-mixins.properties"
+hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
+
+[[files]]
+file = "config/embeddium-options.json"
+hash = "6951b03595a2836cc3b758643573de8683ebd3f3f54218d806fd09f8c74bc79f"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "da13c5bbd33e17050270f49fd151443f7aa8d16115c038c8d047c8844615b4d8"
+
+[[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "e3ca99e0f233e3bcf8b6762a85b1139f716bf96644318fe9cb022c270461b287"
+
+[[files]]
+file = "config/fml.toml"
+hash = "509b94a035da34963cb2f9f825fcbf4b67ad921104aa53c221ff98ffef9a5aa4"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "a8448518860cd8b542dadf75521bfab981451775212ee1b51ddc646d998f9311"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "f2b7f219198f0a911d04b09f545f2c1256e8d114951443924878dc10963e16aa"
+
+[[files]]
+file = "config/jei/blacklist.json"
+hash = "3ca754fefc49ea02e5203353bc3390e520e6717dd8b148aa07042f0b48a78621"
+
+[[files]]
+file = "config/jei/client/default/jei-client.ini"
+hash = "d61d3babd11a6ed89c4295055c142a9e26ac0ece7969d96fa33c781c2625669c"
+
+[[files]]
+file = "config/jei/client/default/jei-colors.ini"
+hash = "1372b094bf8f1d444f04cf4da7f9dc05c445d7ab5b3f73ecd7cfbef79ccad1d7"
+
+[[files]]
+file = "config/jei/client/default/jei-debug.ini"
+hash = "6fbae6db21c604fa008d2e4a696789c1fd2fccdbc741194c8fdfb3f1cd8bdc05"
+
+[[files]]
+file = "config/jei/client/default/jei-mod-id-format.ini"
+hash = "e64349cae34367965848d7fb390dcd6a52d23c012c4711005a70084d958cee67"
+
+[[files]]
+file = "config/jei/client/ingredient-list-mod-sort-order.ini"
+hash = "0d431ae4875e3fa30ba727079d8a574af4e8d7271888675b1df97338a57620db"
+
+[[files]]
+file = "config/jei/client/ingredient-list-type-sort-order.ini"
+hash = "7872633c22a02c79df06205182499f5205d64aeb50349b1183b1900842572b6f"
+
+[[files]]
+file = "config/jei/client/recipe-category-sort-order.ini"
+hash = "1ac8cb865f2b2f05f7d0d64cdc631752af06a944d48328db500843989ea1fd08"
+
+[[files]]
+file = "config/jei/world/server/Minecraft Server (mc_michardiere_fr)/lookupHistory.ini"
+hash = "a4a6dc2ad0f950984edb634878ee1d8233ec56fa03320cfe923155f9de434d36"
+
+[[files]]
+file = "config/konkrete/locals/de_de.local"
+hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
+
+[[files]]
+file = "config/konkrete/locals/en_us.local"
+hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"
+
+[[files]]
+file = "config/konkrete/locals/pl_pl.local"
+hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
+
+[[files]]
+file = "config/konkrete/locals/pt_br.local"
+hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "b87ee52fdc722ce1497e7ff55fdbd0660fc9df40c8f2f8167465cab55a388f0d"
+
+[[files]]
+file = "config/lootrun-common.toml"
+hash = "63d0615eea71aad7dfdf083d1bc8d6956e9f989ae4cdb64912612aa4de30809f"
+
+[[files]]
+file = "config/lootrun/generated/recipe_prices.json"
+hash = "cbd32428f9449f39c7ec60b02b4e4c2e21c3a0405e0792ee3557ea91c9613216"
+
+[[files]]
+file = "config/lootrun/trade/catalog.json"
+hash = "48bbe0b70cb9e85daf1b1cc341ec787f1de621ba94d2780118b31b2164d082e9"
+
+[[files]]
+file = "config/lostcities/common.toml"
+hash = "dd9436f416a8ae6794aa67180e711d7bdfa2221d8c219158e09c23c878c88333"
+
+[[files]]
+file = "config/lostcities/profiles/ancient.json"
+hash = "fa9e00b33a10769a1bf03638c23a0a2eb47f0541ab41bd68c97b8e3faac92301"
+
+[[files]]
+file = "config/lostcities/profiles/atlantis.json"
+hash = "963e21f42dc3a0dee7fb2966b884493410a87329c7a3f23e45daab1cadae99c2"
+
+[[files]]
+file = "config/lostcities/profiles/bio_wasteland.json"
+hash = "9e4456d335e921578e063675512f8d2e4d7f338120c48d7b70b8a0ba296a27fc"
+
+[[files]]
+file = "config/lostcities/profiles/biosphere.json"
+hash = "8a950156527146f5dae8bd2267d9d6b7ebba8bdc0083feebbaf4342ca7364f2d"
+
+[[files]]
+file = "config/lostcities/profiles/biosphere_caves.json"
+hash = "0c437dce1a7ceb5e41033f79d3aa0242a43d4a4d545b0bdc1a8ba6ef333d0a18"
+
+[[files]]
+file = "config/lostcities/profiles/cavern.json"
+hash = "97f1bb7b05d941c629b330b537b228e98fff7b04391207c25f4270857312e569"
+
+[[files]]
+file = "config/lostcities/profiles/default.json"
+hash = "5c24b17ca073eb936712b6af5d640cee3d53061efc8f1d95bc96b0d6daad999b"
+
+[[files]]
+file = "config/lostcities/profiles/floating.json"
+hash = "b4895de5df3d9c7a3c482a7809b1e3fd64a4a4b8659cb9e74a3b0859535c1f12"
+
+[[files]]
+file = "config/lostcities/profiles/largecities.json"
+hash = "525b0b4de8e6fad45182ed9c2493e0d6d991aa35106b26f9381b70b73794651c"
+
+[[files]]
+file = "config/lostcities/profiles/nodamage.json"
+hash = "358ff92af99e7e7958c122ccbca6c72988e0a424588c06569a08db292b6570b3"
+
+[[files]]
+file = "config/lostcities/profiles/onlycities.json"
+hash = "d502d075c950f6f1775c00e1b8019720ea4846b02c58f04b18a10ed758770e69"
+
+[[files]]
+file = "config/lostcities/profiles/rarecities.json"
+hash = "c7386dd6c6947b85911b55ca861ac6d05f2e4349e92becf424708b83b4e3c279"
+
+[[files]]
+file = "config/lostcities/profiles/safe.json"
+hash = "f5e8042fefd62c5192a4cc9b0888c3c84d38921279f933935a9497122a134d1c"
+
+[[files]]
+file = "config/lostcities/profiles/space.json"
+hash = "e1f7d622a52a4b6f88e199e7a1ac842a2d3375ff6ec595c6e28c6c8a6f602426"
+
+[[files]]
+file = "config/lostcities/profiles/tallbuildings.json"
+hash = "5d95b9ba932a23433a812be4d52d837e4ac1fe986ba551099b3fb2ea285cbe63"
+
+[[files]]
+file = "config/lostcities/profiles/void_outside.json"
+hash = "a4f8f2651e26ead1b94765bce7d22ecd877f66ab29753855e5e7ba518ed0e29b"
+
+[[files]]
+file = "config/lostcities/profiles/wasteland.json"
+hash = "ffbdf4d281f7f970aa922c7b046e473a0443aadc16fc2d8de56b47646500631c"
+
+[[files]]
+file = "config/lrtactical-client.toml"
+hash = "55da608bc8d68698c3ea2eec80d6d55eaea9480d8ab2311c54183beb6ff1ceb0"
+
+[[files]]
+file = "config/lrtactical-common.toml"
+hash = "2e330f0df77061187eba0bb94cf941ca4a93818b7373b7ca5d75b3b9da7dc163"
+
+[[files]]
+file = "config/mezz_config/client/default/settings.ini"
+hash = "1ea4410cacf1baa6ee372daf59d4c5989ad944c0eaf26f043d702f13bad204b1"
+
+[[files]]
+file = "config/modernfix-common.toml"
+hash = "d40a0510a5eaf56e3c48e881348d7d826c5a1f61aa29b69cf0fc33dd96d6fdcd"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "12df4b113396478c57f8495c7b07d8181cee1eb910c98a3f9816015fb3149f15"
+
+[[files]]
+file = "config/oculus.properties"
+hash = "271da1375aa2eeb04ded0a21f2938370a94eb4bf4d3ca51f929f725530bdb4ba"
+
+[[files]]
+file = "config/openloader/advanced_options.json"
+hash = "f93af444fae4a5a2c27cf15742705098ad174784a92a622b93d576cd1e1b4bbb"
+
+[[files]]
+file = "config/openloader/resources/Default-Dark-Mode-26.3-2026.9.0.zip"
+hash = "3a41d2ec737c6a284089a8d2f41c225b4cd954f5e62363e9d927a6cf8c919b84"
+
+[[files]]
+file = "config/raritycore/FinalRarity.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/raritycore/RarityStyle.json"
+hash = "3857caa0b1355040b8ec25a294a0d1eb13c9750799efb720cf7782848a854a33"
+
+[[files]]
+file = "config/raritycore/TagRarity.json"
+hash = "16f47fb8f0dc15c7287ccc52779729da4d2b6f7c6d970fe16cd0d712b9137350"
+
+[[files]]
+file = "config/raritycore/auto/auto_rarity.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/raritycore/client.json"
+hash = "bbc546042403a14b073f5b8f9feb5bb411cc4077fbaf14f3a0fdfc370fbd024b"
+
+[[files]]
+file = "config/raritycore/server.json"
+hash = "96e775dd28339aabffa306ee15ceb39cb17da9faf8998ba6ca517cf497d85430"
+
+[[files]]
+file = "config/searchcarefully-common.toml"
+hash = "28539005fcf7bcab4d7b49a1bc57c09d220a2c3871267c2b6134e4ad2c14c38f"
+
+[[files]]
+file = "config/sem-client.toml"
+hash = "b4f362277fd493a32f34240ea0f363b07f2f2ef05c432eae90357d7033dc18a6"
+
+[[files]]
+file = "config/sem-common.toml"
+hash = "d369b4ddae8e4531ea12c4fcf5c39911e9b2c6000ac0194c179b513a23ce03e3"
+
+[[files]]
+file = "config/starterkit.json5"
+hash = "59f438a6e1982085656b80f626c075e68278f56e98582b2daa8bdb4ed4bd6f9d"
+
+[[files]]
+file = "config/starterkit/descriptions/Archer.txt"
+hash = "2ea003ce1408175d33f2bf55cb2de60b7aca7d652b922a84ec52d7d77eb99b64"
+
+[[files]]
+file = "config/starterkit/descriptions/Default.txt"
+hash = "19df01c903be0cc0216fbca05181ff06c2aff09f2ef213e78ea93f82d2cb1324"
+
+[[files]]
+file = "config/starterkit/descriptions/Lumberjack.txt"
+hash = "5091e1a2d5a2927fe1d8f6a6a233ace60f2407be05384f3140b839e9ad3a041a"
+
+[[files]]
+file = "config/starterkit/descriptions/Witch.txt"
+hash = "290f6b832794b6876aba9da963b585ba4e99e5e6a972aebb52810e9a256e2f65"
+
+[[files]]
+file = "config/starterkit/kits/Default.txt"
+hash = "6dbbc17d6bce74e55606cc0cb52f82b6ad0afb76e980a626a0dedc839753ffc9"
+
+[[files]]
+file = "config/starterkit/kits/inactive/Archer.txt"
+hash = "7eecf435aef5579d8321b420724ffe9d4742917d5fd83ec0cf9bbcd32285494f"
+
+[[files]]
+file = "config/starterkit/kits/inactive/Default.txt"
+hash = "5785aed713f281e2854f16bd0ad5dfb73a346663b032cb32140af09e50957a89"
+
+[[files]]
+file = "config/starterkit/kits/inactive/Lumberjack.txt"
+hash = "3f8eb1ad893f5da2e9c5c2858c93ff667cd1aecafe8eed56c970db9343ff3178"
+
+[[files]]
+file = "config/starterkit/kits/inactive/Witch.txt"
+hash = "55dd8eb4bbb3a348cd654739bdf448974667588f4f67f906c60589bddf098d6f"
+
+[[files]]
+file = "config/tacz-client.toml"
+hash = "a4ff5c66e4af6374fa5734d5c6ecef2f656ee805d1dc950fa4493be61d7a1b2d"
+
+[[files]]
+file = "config/tacz-common.toml"
+hash = "3e4bd40eacba8df674a92b8b1cce1d71728da4a4909a468fcd5275d11cd3d1a6"
+
+[[files]]
+file = "config/tacz_tactical_breaching-common.toml"
+hash = "894e1b30f971dc670a3faa8793aacee1b49484eca3b875113a89bf8adb3fb92e"
+
+[[files]]
+file = "config/taczaddon-client.toml"
+hash = "d153f928327f94ed71bf0302db7644225f80f34ab596482f85645cc676ead8e1"
+
+[[files]]
+file = "config/taczaddon-common.toml"
+hash = "0dac52a2523182fa0dab696b5a8cac950c5d614961c97fc7b982159984160e16"
+
+[[files]]
+file = "config/tacztweaks.json"
+hash = "9f6a46490376b70e9d0e2ab1f8659ed36ae81dfb38907370cccfbe765c32a179"
+
+[[files]]
+file = "config/toadlib_config.toadcfg"
+hash = "58bf90d0d1dfa6bdba54eddd6b76273872a472b26066ee2aa7009222af0f32cc"
+
+[[files]]
+file = "config/transition.json"
+hash = "60420a41571a4658b91babfa2b47d6fefb7c1766eeea969f51ff98ab34c2431c"
+
+[[files]]
+file = "config/transmog.json"
+hash = "67d1027e2398f84b22794425893a57512d6497b9268c591cbc80dca1f5a24e16"
+
+[[files]]
+file = "config/trender.json"
+hash = "fe0bed19bd0927b3d519816c73378730689080a8f07e66a6167c266ffde29dd2"
+
+[[files]]
+file = "config/yacl.json5"
+hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
+
+[[files]]
+file = "icon.png"
+hash = "aba93480387ce59f4f8ec4157ec0c07b3c8243088df535bc9cdd61acd8e869a2"
+
+[[files]]
+file = "mods/Controlling-forge-1.20.1-12.0.2.jar"
+hash = "cff8c3426a77f9e7412262b6d79e423979eff3831e010b3b1ea9677e1ecd74cd"
+
+[[files]]
+file = "mods/CullLessLeaves-Reforged-1.20.1-1.0.5.jar"
+hash = "b91ca5cd028b1c919e28851b984edd61874d44ad8038cdeee87315d2656cb292"
+
+[[files]]
+file = "mods/EBE-1.20-1.20.1-0.9.1B.jar"
+hash = "47017b5a27eef8d3ab3f94e7dbb31f51cda71a052e6b9160966b7e7376920e7b"
+
+[[files]]
+file = "mods/ImmediatelyFast-Forge-1.5.4+1.20.4.jar"
+hash = "da781a31b2c8d8a845ed48c89b6463f1df3f2c655de10d8d4f5bed8123ff68a8"
+
+[[files]]
+file = "mods/OpenLoader-Forge-1.20.1-19.0.5.jar"
+hash = "56da03448ce1c63cb0f41e99ae38c5857d663886f9249c234f18b7c0de44b151"
+
+[[files]]
+file = "mods/Searchables-forge-1.20.1-1.0.3.jar"
+hash = "461add180eb595004d3c9f5ac0ce337752e403077f96b38304800eadf01fb825"
+
+[[files]]
+file = "mods/ToadLib-1.3.5-1.20.1.jar"
+hash = "edd60fc79f027971e9e3031802a91deb7342a1a9cc6fe413071e2f384f68389a"
+
+[[files]]
+file = "mods/baguettelib-1.20.1-Forge-2.0.7.jar"
+hash = "ee4f97eff5bba00e37ea1ab72608b8fdf65964741eaf29a91b030bc5a80dbc9b"
+
+[[files]]
+file = "mods/bleedout-1.1.2.jar"
+hash = "5241589935e0a5dd941683f79a4ab6568af25ac58a6d4fc758960ada1bc0c64e"
+
+[[files]]
+file = "mods/citadel-2.6.3-1.20.1.jar"
+hash = "56c7ab87348a5292583aac787b6cf11b5193e77f02af1d17ea75a96f8640b3ce"
+
+[[files]]
+file = "mods/collective-1.20.1-8.40.jar"
+hash = "bb530e601fdd1217cdac24d700ad2888ac3ccc23f255869ab9947e4028267198"
+
+[[files]]
+file = "mods/constantmusic-forge-1.0.6+mc1.20.2.jar"
+hash = "8d5a553f77b5d1ffe139fe43a7a7c7bf8239bb4d879da45c2118165c73624b57"
+
+[[files]]
+file = "mods/dimthread-FORGE-mc1.20.1-v1.2.1.jar"
+hash = "dfbe611d586f9682adcd77cf3ebe4ef2e376bf25ffe69d2f0db0e2773d5cfec7"
+
+[[files]]
+file = "mods/embeddium-0.3.31+mc1.20.1.jar"
+hash = "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"
+
+[[files]]
+file = "mods/entityculling-forge-1.10.2-mc1.20.1.jar"
+hash = "34da8e10cf31ade2b86b02e4f55c4d3b480a0992148ac12f9ec49eb7be4bfda0"
+
+[[files]]
+file = "mods/ferritecore-6.0.1-forge.jar"
+hash = "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
+
+[[files]]
+file = "mods/geckolib-forge-1.20.1-4.8.4.jar"
+hash = "4518779a31b6c2abb92c98b5ad17ef3d60177df68626bfc86c44de2764913c2b"
+
+[[files]]
+file = "mods/jei-1.20.1-forge-15.62.0.216.jar"
+hash = "80ece8bd42497c94cbcab5d9b82594a53831b249bb33e1ff6dcf568a4b7a637b"
+
+[[files]]
+file = "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar"
+hash = "e78686b92c3761ec26eb9d3c53efdd3d6ca77981cbd3723995e1163b7103ae0b"
+
+[[files]]
+file = "mods/kotlinforforge-4.12.0-all.jar"
+hash = "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae"
+
+[[files]]
+file = "mods/lionfishapi-3.0.jar"
+hash = "d2fdaf7e9bc53fde7da4a86ab17018a3ed6c16fc2d46de5054e5a83e2bef7871"
+
+[[files]]
+file = "mods/lootrun-1.0.10.jar"
+hash = "50054a6f4835336446b4087fac04b21e8cfd83f0bb837b4fa6e4ae05836f0339"
+
+[[files]]
+file = "mods/lostcities-1.20-7.5.5.jar"
+hash = "83f174d010b2841eee47b1be4971d0c010739db38294653f35b2413e59793e3a"
+
+[[files]]
+file = "mods/lrtactical-1.20.1-0.4.3.jar"
+hash = "930372cab33e1f563f597c74f9155b5ed25e6f2b0ff7e12dfc86255e1020ef2d"
+
+[[files]]
+file = "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar"
+hash = "933e2a7e79c4594f965f7f7d00b1f28a98ec2a180ad8f9f90310a266fe5cf5d8"
+
+[[files]]
+file = "mods/mezz_config-1.20.1-forge-0.6.3.jar"
+hash = "ee73df9840f48367a8a56b6baf12dae2668007c3c8a2b0abb804eb98934b7efc"
+
+[[files]]
+file = "mods/modernfix-forge-5.27.22+mc1.20.1.jar"
+hash = "6185e729eb9adbae80c738dfe30daeaeb0bf67766fddd409001a082343207ec1"
+
+[[files]]
+file = "mods/oculus-mc1.20.1-1.8.0.jar"
+hash = "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef"
+
+[[files]]
+file = "mods/radium-mc1.20.1-0.12.4+git.26c9d8e.jar"
+hash = "b42584e2672d6b5329959ec2b0f342395b19389fed0ee4d86ea71072f42f77a0"
+
+[[files]]
+file = "mods/raritycore-1201.14.4.jar"
+hash = "f0f5f5a93c7cd84de0818d8d77d72a1ae80fcecacaf57126a0033688dc5e9783"
+
+[[files]]
+file = "mods/searchcarefully-1201.10.0.jar"
+hash = "5183b147dbc2637d934d1e3f7d08704f9519b41c2a9b9e7c77fbe47d8e5a8fb6"
+
+[[files]]
+file = "mods/simpleenemymod-1.20.1-0.1.6-beta-hotfix.jar"
+hash = "503fa7b86fc73b4b64436019635ec2dfba7a5266412d416bd4f48b3f9a072576"
+
+[[files]]
+file = "mods/starterkit-1.20.1-8.1.jar"
+hash = "e543d1dc48a27015921e832591248f325b034e81546c1c3d977b2769dac0a385"
+
+[[files]]
+file = "mods/tacz-1.20.1-1.1.8-hotfix.jar"
+hash = "9ed8ada1283ed7a793a70cc1b51c4a340f367ce84707e1a7b8cf21ee3d288d77"
+
+[[files]]
+file = "mods/tacz-tweaks-2.14.2-all.jar"
+hash = "e0a9aeea1b764910fa4201391089759e338002c89a19a98b296f1c9f27fd836f"
+
+[[files]]
+file = "mods/tacz_tactical_breaching-forge-1.20.1-1.0.5.jar"
+hash = "3b77fc951f3fd2a972ea2f07121595b9305acb4ffda3271549fe7d308e0f72c2"
+
+[[files]]
+file = "mods/taczaddon-1.1.8.1-hotfix6-forge-1.20.1.jar"
+hash = "9daef8e6cbfe1e7f7559eb0242f4acb00540cd1185ddcb3bcfa3d242ac847575"
+
+[[files]]
+file = "mods/transmog-forge-1.3.0+1.20.jar"
+hash = "79e98e78cb2f5c31e6fe3b4e67e21a0b61550f49521355b79162eee491ecfd9c"
+
+[[files]]
+file = "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar"
+hash = "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f"
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
+
+[[files]]
+file = "servermods/CullLessLeaves-Reforged-1.20.1-1.0.5.jar"
+hash = "b91ca5cd028b1c919e28851b984edd61874d44ad8038cdeee87315d2656cb292"
+
+[[files]]
+file = "servermods/OpenLoader-Forge-1.20.1-19.0.5.jar"
+hash = "56da03448ce1c63cb0f41e99ae38c5857d663886f9249c234f18b7c0de44b151"
+
+[[files]]
+file = "servermods/baguettelib-1.20.1-Forge-2.0.7.jar"
+hash = "ee4f97eff5bba00e37ea1ab72608b8fdf65964741eaf29a91b030bc5a80dbc9b"
+
+[[files]]
+file = "servermods/bleedout-1.1.2.jar"
+hash = "5241589935e0a5dd941683f79a4ab6568af25ac58a6d4fc758960ada1bc0c64e"
+
+[[files]]
+file = "servermods/citadel-2.6.3-1.20.1.jar"
+hash = "56c7ab87348a5292583aac787b6cf11b5193e77f02af1d17ea75a96f8640b3ce"
+
+[[files]]
+file = "servermods/collective-1.20.1-8.40.jar"
+hash = "bb530e601fdd1217cdac24d700ad2888ac3ccc23f255869ab9947e4028267198"
+
+[[files]]
+file = "servermods/constantmusic-forge-1.0.6+mc1.20.2.jar"
+hash = "8d5a553f77b5d1ffe139fe43a7a7c7bf8239bb4d879da45c2118165c73624b57"
+
+[[files]]
+file = "servermods/dimthread-FORGE-mc1.20.1-v1.2.1.jar"
+hash = "dfbe611d586f9682adcd77cf3ebe4ef2e376bf25ffe69d2f0db0e2773d5cfec7"
+
+[[files]]
+file = "servermods/ferritecore-6.0.1-forge.jar"
+hash = "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
+
+[[files]]
+file = "servermods/geckolib-forge-1.20.1-4.8.4.jar"
+hash = "4518779a31b6c2abb92c98b5ad17ef3d60177df68626bfc86c44de2764913c2b"
+
+[[files]]
+file = "servermods/jei-1.20.1-forge-15.62.0.216.jar"
+hash = "80ece8bd42497c94cbcab5d9b82594a53831b249bb33e1ff6dcf568a4b7a637b"
+
+[[files]]
+file = "servermods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar"
+hash = "e78686b92c3761ec26eb9d3c53efdd3d6ca77981cbd3723995e1163b7103ae0b"
+
+[[files]]
+file = "servermods/kotlinforforge-4.12.0-all.jar"
+hash = "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae"
+
+[[files]]
+file = "servermods/lionfishapi-3.0.jar"
+hash = "d2fdaf7e9bc53fde7da4a86ab17018a3ed6c16fc2d46de5054e5a83e2bef7871"
+
+[[files]]
+file = "servermods/lootrun-1.0.10.jar"
+hash = "50054a6f4835336446b4087fac04b21e8cfd83f0bb837b4fa6e4ae05836f0339"
+
+[[files]]
+file = "servermods/lostcities-1.20-7.5.5.jar"
+hash = "83f174d010b2841eee47b1be4971d0c010739db38294653f35b2413e59793e3a"
+
+[[files]]
+file = "servermods/lrtactical-1.20.1-0.4.3.jar"
+hash = "930372cab33e1f563f597c74f9155b5ed25e6f2b0ff7e12dfc86255e1020ef2d"
+
+[[files]]
+file = "servermods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar"
+hash = "933e2a7e79c4594f965f7f7d00b1f28a98ec2a180ad8f9f90310a266fe5cf5d8"
+
+[[files]]
+file = "servermods/mezz_config-1.20.1-forge-0.6.3.jar"
+hash = "ee73df9840f48367a8a56b6baf12dae2668007c3c8a2b0abb804eb98934b7efc"
+
+[[files]]
+file = "servermods/modernfix-forge-5.27.22+mc1.20.1.jar"
+hash = "6185e729eb9adbae80c738dfe30daeaeb0bf67766fddd409001a082343207ec1"
+
+[[files]]
+file = "servermods/radium-mc1.20.1-0.12.4+git.26c9d8e.jar"
+hash = "b42584e2672d6b5329959ec2b0f342395b19389fed0ee4d86ea71072f42f77a0"
+
+[[files]]
+file = "servermods/raritycore-1201.14.4.jar"
+hash = "f0f5f5a93c7cd84de0818d8d77d72a1ae80fcecacaf57126a0033688dc5e9783"
+
+[[files]]
+file = "servermods/searchcarefully-1201.10.0.jar"
+hash = "5183b147dbc2637d934d1e3f7d08704f9519b41c2a9b9e7c77fbe47d8e5a8fb6"
+
+[[files]]
+file = "servermods/simpleenemymod-1.20.1-0.1.6-beta-hotfix.jar"
+hash = "503fa7b86fc73b4b64436019635ec2dfba7a5266412d416bd4f48b3f9a072576"
+
+[[files]]
+file = "servermods/starterkit-1.20.1-8.1.jar"
+hash = "e543d1dc48a27015921e832591248f325b034e81546c1c3d977b2769dac0a385"
+
+[[files]]
+file = "servermods/tacz-1.20.1-1.1.8-hotfix.jar"
+hash = "9ed8ada1283ed7a793a70cc1b51c4a340f367ce84707e1a7b8cf21ee3d288d77"
+
+[[files]]
+file = "servermods/tacz-tweaks-2.14.2-all.jar"
+hash = "e0a9aeea1b764910fa4201391089759e338002c89a19a98b296f1c9f27fd836f"
+
+[[files]]
+file = "servermods/tacz_tactical_breaching-forge-1.20.1-1.0.5.jar"
+hash = "3b77fc951f3fd2a972ea2f07121595b9305acb4ffda3271549fe7d308e0f72c2"
+
+[[files]]
+file = "servermods/taczaddon-1.1.8.1-hotfix6-forge-1.20.1.jar"
+hash = "9daef8e6cbfe1e7f7559eb0242f4acb00540cd1185ddcb3bcfa3d242ac847575"
+
+[[files]]
+file = "servermods/transmog-forge-1.3.0+1.20.jar"
+hash = "79e98e78cb2f5c31e6fe3b4e67e21a0b61550f49521355b79162eee491ecfd9c"
+
+[[files]]
+file = "servermods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar"
+hash = "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f"
+
+[[files]]
+file = "servers.dat"
+hash = "5efbccb8f922a3e4f28285b78892cfe8046ed9c3103bf95ef1549b9151560c95"
+
+[[files]]
+file = "shaderpacks/Insanity-Shader-Universal-v1.650.zip"
+hash = "ed0ece7500307584a7bba09a872fde39df78fcfa1b90f3e4fac36da60e96a511"

@@ -1,0 +1,13 @@
+name = "Hit&Run"
+author = "Mich"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a66df2510e7e22eed79a8e92278d17fea8bd4dd18b81718266aaf0f1929d0d17"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"
